@@ -1,6 +1,6 @@
 # demo
 
-some desciptive text :) !
+some desciptive text!
 import matplotlib.pyplot as plt
 import numpy as np
 
